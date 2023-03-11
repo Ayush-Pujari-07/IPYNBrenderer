@@ -1,0 +1,13 @@
+ipywidgets==8.0.4
+notebook==6.5.3
+ensure==1.0.2
+py-youtube==1.1.7
+mkdocs-material
+
+# dev requirements
+pytest==7.2.2
+tox==4.4.6
+black==23.1.0
+flake8==6.0.0
+mypy==1.1.1
+-e .
